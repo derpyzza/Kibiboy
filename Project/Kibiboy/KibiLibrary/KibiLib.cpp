@@ -1,5 +1,5 @@
 // Includes
-#include "Kibilib.h"
+#include "KibiLib.h"
 
 
 Kibiboy* Kibiboy::instance = NULL;

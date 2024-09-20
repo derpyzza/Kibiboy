@@ -1,7 +1,7 @@
 #pragma once
 
 // Includes
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <array>
 #include <map>
 #include <vector>

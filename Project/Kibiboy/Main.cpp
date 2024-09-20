@@ -1,13 +1,13 @@
 // Includes
 #include <iostream>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <lua.hpp>
 #include <lualib.h>
 #include <string>
 #include "Application.h"
 #include "Cart/Gameloop.h"
 #include "Cart/Cart.h"
-#include "KibiLibrary/Kibilib.h"
+#include "KibiLibrary/KibiLib.h"
 #include "Drawing/Canvas.h"
 #include "Input/Input.h"
 #include "Editor/Editor.h"

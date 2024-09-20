@@ -3,7 +3,7 @@
 #include "Colors.h"
 #include "Sprite.h"
 #include "Character.h"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <string>
 
 
